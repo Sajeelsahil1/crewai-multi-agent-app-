@@ -2,6 +2,8 @@
 
 This project is a simple web application that demonstrates a multi-agent orchestration system. It uses CrewAI to manage a team of AI agents (Planner, Researcher, and Writer) who collaborate to achieve a complex goal set by the user.
 
+Test it: https://pxlv28pyvhzgjfqrnybwyz.streamlit.app/
+
 The application is built with Streamlit and powered by Google's Gemini language model.
 
 This project was built to fulfill the task below:
@@ -60,3 +62,4 @@ Paste your GOOGLE_API_KEY into the sidebar.
 Type your high-level goal (e.g., "Write a marketing plan for a new vegan bakery") into the main text box.
 
 Click the "🚀 Run Crew" button and watch the agents work!
+
