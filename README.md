@@ -59,5 +59,4 @@ Paste your GOOGLE_API_KEY into the sidebar.
 
 Type your high-level goal (e.g., "Write a marketing plan for a new vegan bakery") into the main text box.
 
-
 Click the "🚀 Run Crew" button and watch the agents work!
