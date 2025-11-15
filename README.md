@@ -20,7 +20,7 @@ Powered by Gemini: Uses Google's Gemini API (via CrewAI's LLM class) as the "bra
 
 1. Clone the Repository
 
-git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
+git clone [https://github.com/Sajeelsahil1/crewai-multi-agent-app.git](https://github.com/Sajeelsahil1/crewai-multi-agent-app.git)
 cd YOUR_REPOSITORY_NAME
 
 
@@ -58,5 +58,6 @@ Your browser will automatically open to the app.
 Paste your GOOGLE_API_KEY into the sidebar.
 
 Type your high-level goal (e.g., "Write a marketing plan for a new vegan bakery") into the main text box.
+
 
 Click the "🚀 Run Crew" button and watch the agents work!
